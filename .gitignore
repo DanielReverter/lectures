@@ -4,3 +4,5 @@
 .vscode
 *mt.ipynb
 week-2/other/*
+.env
+**/.env
